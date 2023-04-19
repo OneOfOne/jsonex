@@ -4,6 +4,8 @@ This package is a fork of `encoding/json` that allows decoding individual JSON s
 
 It adds 2 functions `DecodeKey` and `DecodeValue` that allow decoding of individual JSON slice and map items.
 
+Synced with [Go](https://github.com/golang/go/tree/9cad0cc6e6b2a84134c46ce7069e62de28459f26) on 2023-04-19.
+
 ## Example
 
 ```go
